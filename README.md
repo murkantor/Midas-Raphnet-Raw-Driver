@@ -1,3 +1,5 @@
+> **Disclaimer:** this library was extracted from Project Midas with AI assistance ([Claude Code](https://claude.com/claude-code)). It has been checked by tests and builds, but review it before relying on it, and test raphnet hardware yourself.
+
 # Midas Raphnet RAW Driver
 
 The raphnet N64-to-USB adapter driver from **Project Midas** (the GoldenEye 007
