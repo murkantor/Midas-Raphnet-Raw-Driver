@@ -1,4 +1,4 @@
-# Decomp / Recomp Raphnet RAW Driver
+# Midas Raphnet RAW Driver
 
 The raphnet N64-to-USB adapter driver from **Project Midas** (the GoldenEye 007
 PC port), as a small C library for other PC decomps and recomps.
@@ -21,7 +21,7 @@ companion
 In Claude Code (or another AI coding agent), from your game's repository:
 
 ```
-Add https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver to this project. Follow its CLAUDE.md.
+Add https://github.com/murkantor/Midas-Raphnet-Raw-Driver to this project. Follow its CLAUDE.md.
 ```
 
 [CLAUDE.md](CLAUDE.md) tells the agent how to vendor the driver, find where your

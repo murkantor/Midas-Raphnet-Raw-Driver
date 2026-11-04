@@ -34,7 +34,7 @@ that processing.
 Pick whichever matches how the host already keeps third-party code:
 
 ```bash
-git submodule add https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver third_party/raphnet-raw-driver
+git submodule add https://github.com/murkantor/Midas-Raphnet-Raw-Driver third_party/raphnet-raw-driver
 ```
 
 or a `git subtree add`, or copy `include/`, `src/` and `LICENSE`. Then wire up
