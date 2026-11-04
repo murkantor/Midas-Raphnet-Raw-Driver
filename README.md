@@ -28,6 +28,19 @@ an N64 console reads, with nothing in between.
   without a restart.
 - Single- and dual-port adapters, and firmware before and after v3.4.
 
+## Add it to your game with one prompt
+
+In Claude Code (or another AI coding agent), from your game's repository:
+
+```
+Add https://github.com/murkantor/Decomp-Recomp-Raphnet-Raw-Driver to this project. Follow its CLAUDE.md.
+```
+
+[CLAUDE.md](CLAUDE.md) tells the agent how to vendor the driver, find where your
+port builds its pad state, keep the raphnet stick untouched, and hide the
+adapter's duplicate joystick. It also lists what you need to test with a real
+adapter.
+
 ## Build
 
 ```bash
